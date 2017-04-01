@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/mammothbane
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mammothbane.github.io
+  * I am mammothbane (https://keybase.io/mammothbane) on keybase.
+  * I have a public key ASA1_fiR6A4DKZlFpKbyxwzVhynkTkR9xOmfzIq91d6eHQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101066b87759f8ed361ec35eef6a8d3cbe9663c432ae65824034939b07aceafae150a",
+            "host": "keybase.io",
+            "kid": "012035fdf891e80e03299945a4a6f2c70cd58729e44e447dc4e99fcc8abdd5de9e1d0a",
+            "uid": "d908bb4948208f82282d3c9a297b2f19",
+            "username": "mammothbane"
+        },
+        "service": {
+            "hostname": "mammothbane.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491022656,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491022625,
+        "hash": "b195be1824c34908902c83c3c3b2632df4031e2072362576961216eb54ab95533e75147b9afabe30be1b99903d7732c195fdfcb5abb0ea8598b6b732297c4862",
+        "seqno": 992620
+    },
+    "prev": "ffa143a4efa0af4b9f90be244230a3b9eff8edb755bc7aeba635e926ae59e8ed",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNf34kegOAymZRaSm8scM1Ycp5E5EfcTpn8yKvdXenh0Kp3BheWxvYWTFAwF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMDY2Yjg3NzU5ZjhlZDM2MWVjMzVlZWY2YThkM2NiZTk2NjNjNDMyYWU2NTgyNDAzNDkzOWIwN2FjZWFmYWUxNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzVmZGY4OTFlODBlMDMyOTk5NDVhNGE2ZjJjNzBjZDU4NzI5ZTQ0ZTQ0N2RjNGU5OWZjYzhhYmRkNWRlOWUxZDBhIiwidWlkIjoiZDkwOGJiNDk0ODIwOGY4MjI4MmQzYzlhMjk3YjJmMTkiLCJ1c2VybmFtZSI6Im1hbW1vdGhiYW5lIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtYW1tb3RoYmFuZS5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MTAyMjY1NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxMDIyNjI1LCJoYXNoIjoiYjE5NWJlMTgyNGMzNDkwODkwMmM4M2MzYzNiMjYzMmRmNDAzMWUyMDcyMzYyNTc2OTYxMjE2ZWI1NGFiOTU1MzNlNzUxNDdiOWFmYWJlMzBiZTFiOTk5MDNkNzczMmMxOTVmZGZjYjVhYmIwZWE4NTk4YjZiNzMyMjk3YzQ4NjIiLCJzZXFubyI6OTkyNjIwfSwicHJldiI6ImZmYTE0M2E0ZWZhMGFmNGI5ZjkwYmUyNDQyMzBhM2I5ZWZmOGVkYjc1NWJjN2FlYmE2MzVlOTI2YWU1OWU4ZWQiLCJzZXFubyI6MTYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAyxHqvdBCPYLYGS9zdXPocjS+lDApSPk0oX07EwHNgk3sqWChKXH85S6xiJOIkRoeoLbxx06r05MiwOnm5wUgCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOsVETyrL6HyzrMR34bE6Fvna5EY7hE9F/iiwPpe/NVto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mammothbane
+
+==================================================================
